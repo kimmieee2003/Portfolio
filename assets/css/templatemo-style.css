@@ -454,7 +454,7 @@ button:hover {
 }
 
 .service-item:hover .first-service-icon {
-  background-image: url(../images/first-main-icon.png);
+  background-image: url(../images/icon_lightbulb.png);
 }
 
 .service-item .second-service-icon {
@@ -462,7 +462,7 @@ button:hover {
 }
 
 .service-item:hover .second-service-icon {
-  background-image: url(../images/second-main-icon.png);
+  background-image: url(../images/icon_opening.png);
 }
 
 .service-item .third-service-icon {
@@ -470,7 +470,7 @@ button:hover {
 }
 
 .service-item:hover .third-service-icon {
-  background-image: url(../images/third-main-icon.png);
+  background-image: url(../images/icon_setting.png);
 }
 
 .service-item .fourth-service-icon {
@@ -478,7 +478,7 @@ button:hover {
 }
 
 .service-item:hover .fourth-service-icon {
-  background-image: url(../images/fourth-main-icon.png);
+  background-image: url(../images/icon_line.png);
 }
 
 /* My Work */
